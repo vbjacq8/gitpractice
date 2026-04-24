@@ -2,3 +2,5 @@
 test
 
 commit A
+
+commit B
