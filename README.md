@@ -1,2 +1,4 @@
 # gitpractice
 test
+
+commit A
